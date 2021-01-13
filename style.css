@@ -1,0 +1,28 @@
+h1, h3, p, span, button {
+    font-family: Verdana;
+}
+body {
+    background-color: #b8d1ff;
+    color: #3c3c3b;
+    padding: 50px;
+}
+input {
+    background-color: white;
+    border: none;
+    color: #3c3c3b;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.addtodo {
+    background-color: cornflowerblue;
+    border: none;
+    color: #3c3c3b;
+    padding: 14px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
